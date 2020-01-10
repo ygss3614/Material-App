@@ -24,6 +24,7 @@
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@color/theme_primary</item>
         <item name="android:textColorPrimary">@color/theme_primary</item>
+        <item name="android:fontFamily">sans-serif</item>
 
     </style>
 
