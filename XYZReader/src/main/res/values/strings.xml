@@ -7,6 +7,9 @@
     <string name="action_settings">Settings</string>
     <string name="action_share">Share</string>
 
+    <string name="post_description">Post Description</string>
+    <string name="action_fab">Fab</string>
+
     <string name="up">Up</string>
 
 </resources>
