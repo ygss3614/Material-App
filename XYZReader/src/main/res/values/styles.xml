@@ -22,10 +22,17 @@
     </style>
 
     <style name="Theme.Bacon.Detail">
+        <!-- theme colors-->
         <item name="android:statusBarColor">@color/theme_primary</item>
         <item name="android:textColorPrimary">@color/theme_primary</item>
+
+        <!--font-->
         <item name="android:fontFamily">sans-serif</item>
 
+        <!--transitions-->
+        <item name="android:windowExitTransition">@transition/explode</item>
+        <item name="android:windowEnterTransition">@transition/explode</item>
+        <item name="android:windowContentTransitions">true</item>
     </style>
 
 </resources>
